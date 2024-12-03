@@ -1,0 +1,47 @@
+.my-form{
+    background-color:#24353F;
+    margin: auto;
+    text-align: center;
+
+}
+
+h1{
+    color: #17A2B8;
+}
+
+
+body{
+    background-color: #24353F;
+}
+
+.form-control{
+    background-color: #24353F;
+}
+
+
+
+.form-control::placeholder {
+    color: #737B7F;
+  }
+
+
+  .btn{
+    color: #17A2B8;
+    border-color: #17A2B8;
+  }
+.btn:hover{
+    background-color: #17A2B8;
+    color: white;
+}
+
+
+p , a {
+    color: white;
+    text-decoration: none;
+}
+
+.welcome{
+    background-color: #24353F;
+
+}
+
